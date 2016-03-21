@@ -131,8 +131,10 @@ Form
 .form button {
     width: 100%;
     outline: none !important;
-    background: -webkit-linear-gradient(270deg, #49a09b, #3d8291);
-    background: linear-gradient(180deg, #49a09b, #3d8291);
+    /*    background: -webkit-linear-gradient(270deg, #49a09b, #3d8291);*/
+    /*    background: linear-gradient(180deg, #49a09b, #3d8291);*/
+    background: -webkit-linear-gradient(315deg, #53223f, blue);
+    background: linear-gradient(137deg, #53223f, blue);
     text-transform: uppercase;
     font-weight: bold;
     border: none;
@@ -173,11 +175,15 @@ Credit Card
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
 }
+
+/*
 .credit-card-box:hover .flip,
 .credit-card-box.hover .flip {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
+*/
+
 .credit-card-box .front {
     width: 400px;
     height: 200px;
@@ -193,46 +199,10 @@ Credit Card
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
 }
-.credit-card-box .front::before {
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-}
-.credit-card-box .front {
-    z-index: 2;
-    -webkit-transform: rotateY(0deg);
-    transform: rotateY(0deg);
-}
-.credit-card-box .chip {
-    position: absolute;
-    width: 60px;
-    height: 45px;
-    top: 20px;
-    left: 20px;
-    background: -webkit-linear-gradient(315deg, #ddccf0 0%, #d1e9f5 44%, #f8ece7 100%);
-    background: linear-gradient(135deg, #ddccf0 0%, #d1e9f5 44%, #f8ece7 100%);
-    border-radius: 8px;
-}
-.credit-card-box .chip::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    border: 4px solid rgba(128, 128, 128, 0.1);
-    width: 80%;
-    height: 70%;
-    border-radius: 5px;
-}
 .front {
     text-align: center;
 }
-.front p {
-    margin-top: 20px;
+.front h4 {
+    margin-top: 35px;
 }
 .visa {}

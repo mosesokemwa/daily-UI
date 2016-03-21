@@ -45,11 +45,16 @@ $('#card-ccv').on('focus', function () {
 /*--------------------
 CodePen Tile Preview
 --------------------*/
-setTimeout(function () {
-    $('#card-ccv').focus().delay(1000).queue(function () {
-        $(this).blur().dequeue();
-    });
-}, 500);
+
+
+//setTimeout(function () {
+//    $('#card-ccv').focus().delay(1000).queue(function () {
+//        $(this).blur().dequeue();
+//    });
+//}, 500);
+
+
+
 
 /*function getCreditCardType(accountNumber) {
   if (/^5[1-5]/.test(accountNumber)) {
