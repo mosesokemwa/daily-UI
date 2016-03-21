@@ -6,7 +6,7 @@
 body {
     min-height: 100%;
     font-family: 'Raleway', serif;
-    background-image: url(../img/bcg-min.jpg);
+    background-image: url(https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/bcg-min.jpg);
     background-size: cover;
 }
 
