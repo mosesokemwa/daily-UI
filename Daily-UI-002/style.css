@@ -6,7 +6,7 @@
 body {
     min-height: 100%;
     font-family: 'Raleway', serif;
-    background-image: url(https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/bcg-min.jpg);
+    background-image: url(https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/bcg.jpg);
     background-size: cover;
 }
 
@@ -151,7 +151,7 @@ Checkout
 --------------------*/
 
 .checkout {
-    margin: 100px auto 30px;
+    margin: 80px auto 30px;
     position: relative;
     width: 460px;
     background: #FFf;
@@ -170,7 +170,7 @@ Credit Card
     width: 400px;
     height: 280px;
     position: absolute;
-    top: 30px;
+    top: -60px;
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -205,4 +205,3 @@ Credit Card
 .front h4 {
     margin-top: 35px;
 }
-.visa {}

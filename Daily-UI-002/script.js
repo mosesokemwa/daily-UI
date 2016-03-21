@@ -47,11 +47,11 @@ CodePen Tile Preview
 --------------------*/
 
 
-//setTimeout(function () {
-//    $('#card-ccv').focus().delay(1000).queue(function () {
-//        $(this).blur().dequeue();
-//    });
-//}, 500);
+setTimeout(function () {
+    $('#card-ccv').focus().delay(1000).queue(function () {
+        $(this).blur().dequeue();
+    });
+}, 500);
 
 
 
