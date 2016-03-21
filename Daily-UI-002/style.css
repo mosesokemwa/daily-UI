@@ -3,14 +3,9 @@
 *::after {
     box-sizing: border-box;
 }
-html,
 body {
     min-height: 100%;
     font-family: 'Raleway', serif;
-}
-body {
-    /*    background: -webkit-linear-gradient(40deg, #f3c680, #a1e3e2);*/
-    /*    background: linear-gradient(50deg, #f3c680, #a1e3e2);*/
     background-image: url(../img/bcg-min.jpg);
     background-size: cover;
 }
@@ -79,7 +74,6 @@ Form
     color: rgba(0, 0, 0, 0.6);
     margin-bottom: 5px;
     font-weight: bold;
-    font-family: Inconsolata;
 }
 .form fieldset input,
 .form fieldset .select {
@@ -155,7 +149,7 @@ Checkout
 --------------------*/
 
 .checkout {
-    margin: 150px auto 30px;
+    margin: 100px auto 30px;
     position: relative;
     width: 460px;
     background: #FFf;
@@ -174,7 +168,7 @@ Credit Card
     width: 400px;
     height: 280px;
     position: absolute;
-    top: -112px;
+    top: 30px;
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -186,15 +180,14 @@ Credit Card
 }
 .credit-card-box .front {
     width: 400px;
-    height: 250px;
+    height: 200px;
     border-radius: 15px;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background: -webkit-linear-gradient(315deg, #bd6772, #53223f);
-    background: linear-gradient(135deg, #bd6772, #53223f);
+    background: -webkit-linear-gradient(315deg, blue, #53223f);
+    background: linear-gradient(135deg, blue, #53223f);
     position: absolute;
     color: #fff;
-    font-family: Inconsolata;
     top: 0;
     left: 0;
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
@@ -236,3 +229,10 @@ Credit Card
     height: 70%;
     border-radius: 5px;
 }
+.front {
+    text-align: center;
+}
+.front p {
+    margin-top: 20px;
+}
+.visa {}
