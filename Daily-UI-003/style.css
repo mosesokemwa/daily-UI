@@ -1,65 +1,35 @@
-html,
+html {
+    height: 100%;
+    font-family: 'Raleway', serif;
+}
 body {
-    padding-top: 25px;
-    font-size: 100%;
-    background: #fff;
-    overflow-x: hidden;
-}
-.ban {
-    background-image: url(http://wallpaper.zone/img/2380777.jpg);
+    /*    background-image: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fit=crop&fm=jpg&h=775&q=50&w=1450);*/
+    background-image: url(../img/cat.jpg);
     background-size: cover;
-    background-position: 50% 0px;
-    height: 90%;
-    width: 100%;
-    position: absolute;
-    /*   padding: 0; */
-    /*   z-index: 0; */
+    background-position: center;
+    color: #fff;
 }
-.banner {
-    position: absolute;
-    width: 100%;
-    top: 20%;
-    left: 0;
+.content {
     text-align: center;
+    padding-top: 15%;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+    font-family: 'Raleway', serif;
 }
-.hero {
-    font-size: 60px;
-    margin-bottom: 80px;
+h1 {
+    font-weight: 700;
+    font-size: 5em;
 }
-.banner-info {
-    color: white;
-    font-family: Raleway, Georgia, Times, sans-serif;
-    font-size: 20px;
-    font-style: normal;
-    text-transform: none;
-    margin-top: 30px;
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2)
 }
-.btn-twitter,
-.btn-github,
-.btn-linkedin,
-.btn-fire {
-    font-size: 18px;
-    border: solid grey;
-    border-radius: 10px;
-    padding: 2px 10px 2px 10px;
-    margin: 5px 3px 0px 3px;
+.title {
+    text-decoration: none;
+    color: black;
 }
-.mybutton {
-    padding-right: 10px;
-    font-size: 18px;
-}
-.myblock {
-    padding-top: 50px;
-    height: 500px;
-    color: #f8f8f8;
-}
-#about {
-    display: block;
-    background-color: #009688;
-}
-#portfolio {
-    background-color: #ff9800;
-}
-#contact {
-    background-color: #673ab7;
+.secondary {
+    border-radius: 20px;
+    background-color: red;
+    color: blue;
 }
