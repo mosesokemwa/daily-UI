@@ -1,1 +1,65 @@
-
+html,
+body {
+    padding-top: 25px;
+    font-size: 100%;
+    background: #fff;
+    overflow-x: hidden;
+}
+.ban {
+    background-image: url(http://wallpaper.zone/img/2380777.jpg);
+    background-size: cover;
+    background-position: 50% 0px;
+    height: 90%;
+    width: 100%;
+    position: absolute;
+    /*   padding: 0; */
+    /*   z-index: 0; */
+}
+.banner {
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    left: 0;
+    text-align: center;
+}
+.hero {
+    font-size: 60px;
+    margin-bottom: 80px;
+}
+.banner-info {
+    color: white;
+    font-family: Raleway, Georgia, Times, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    text-transform: none;
+    margin-top: 30px;
+}
+.btn-twitter,
+.btn-github,
+.btn-linkedin,
+.btn-fire {
+    font-size: 18px;
+    border: solid grey;
+    border-radius: 10px;
+    padding: 2px 10px 2px 10px;
+    margin: 5px 3px 0px 3px;
+}
+.mybutton {
+    padding-right: 10px;
+    font-size: 18px;
+}
+.myblock {
+    padding-top: 50px;
+    height: 500px;
+    color: #f8f8f8;
+}
+#about {
+    display: block;
+    background-color: #009688;
+}
+#portfolio {
+    background-color: #ff9800;
+}
+#contact {
+    background-color: #673ab7;
+}
