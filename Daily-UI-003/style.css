@@ -28,8 +28,13 @@ hr {
     text-decoration: none;
     color: black;
 }
-.secondary {
-    border-radius: 20px;
-    background-color: red;
+.content .button {
+    border-radius: 25px;
+    background-color: #f8f8f8;
     color: blue;
+    font-size: 20px;
+}
+.content .button:hover {
+    color: blue;
+    background-color: blueviolet;
 }
