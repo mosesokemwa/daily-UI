@@ -14,14 +14,19 @@ body {
     text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
     font-family: 'Raleway', serif;
 }
-h1 {
+.content h1 {
     font-weight: 700;
+    color: #fff;
     font-size: 5em;
+}
+h3 {
+    color: #fff;
 }
 hr {
     width: 400px;
+    margin-left: 270px;
     border-top: 1px solid #f8f8f8;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 .title {
     text-decoration: none;
@@ -29,11 +34,12 @@ hr {
 }
 .button {
     border-radius: 25px;
-    background-color: #f8f8f8;
-    color: blue;
+    background-color: blue;
+    color: #f8f8f8;
     font-size: 20px;
 }
 .content .button:hover {
     color: blue;
-    background-color: blueviolet;
+    background-color: #f8f8f8;
+    ;
 }
