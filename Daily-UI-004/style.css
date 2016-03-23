@@ -1,0 +1,21 @@
+/*#c04a58 == sign*/
+
+
+/*#6a2b3e background*/
+
+
+/*#fffffa text color*/
+
+body {
+    background-color: #fffffa;
+    font-family: 'Raleway', serif;
+    text-align: center;
+}
+.color {
+    /*    background-color: */
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 659px 1321px;
+    border-color: transparent transparent #c04a58 transparent;
+}
