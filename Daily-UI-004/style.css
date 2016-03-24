@@ -1,21 +1,79 @@
-/*#c04a58 == sign*/
-
-
-/*#6a2b3e background*/
-
-
-/*#fffffa text color*/
-
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-size: 4vw;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+html {
+    height: 100%;
+    background: radial-gradient(circle, #fff, #ddd);
+    background-size: cover;
+}
 body {
     background-color: #fffffa;
     font-family: 'Raleway', serif;
     text-align: center;
 }
-.color {
-    /*    background-color: */
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 0 0 659px 1321px;
-    border-color: transparent transparent #c04a58 transparent;
+#calculator {
+    width: 8em;
+    height: auto;
+    background: linear-gradient(#4389A2, #5C258D);
+    margin: 1em auto;
+    margin-top: 0;
+}
+.top span.clear {
+    float: left;
+    box-shadow: 0 4px #ff7c87;
+    color: #FFF;
+}
+.top .input {
+    height: 2em;
+    width: 9em;
+    padding-right: 1em;
+    float: right;
+    color: #FFF;
+    line-height: 3em;
+    text-align: right;
+    letter-spacing: 1px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.keys,
+.top {
+    overflow: hidden;
+}
+.keys span,
+.top span.clear {
+    float: left;
+    cursor: pointer;
+    width: 2em;
+    height: 2em;
+    line-height: 3em;
+    color: #fff;
+    text-align: center;
+    transition: background-color 0.2s ease;
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.keys span.operator {
+    background: rgba(255, 255, 255, 0.2);
+    border-right: 0;
+    color: rgba(0, 0, 0, 0.5);
+}
+.keys span.equals {
+    color: #888e5f;
+}
+.keys span:hover {
+    background: rgba(255, 255, 255, 0.3);
+    color: #FFF;
+}
+.keys span.equals:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+}
+.top span.clear:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: #FFF;
 }
