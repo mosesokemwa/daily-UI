@@ -40,3 +40,13 @@
     Hint: Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? 
     Is it for a phone, a tablet, a web app? (It's up to you!)
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+
+
+* _Daily UI 005_
+
+    * ** App Icon **
+    
+    Hint: Design an app icon.
+    What best represents the brand or product? Or is it incredibly unique?
+    Does it look great at a distance and does it stand out when put on your home screen alongside other apps?
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
