@@ -53,6 +53,7 @@
     Does it look great at a distance and does it stand out when put on your home screen alongside other apps?
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
 
+![app icon](img/shots/Screenshot5.png)
 
 * _Daily UI 006_
 
