@@ -4,18 +4,16 @@
 * _Daily UI 001_
 
     * ** Sign Up **
-
-
+    
         Hint: Design a sign up page, modal, form, app screen, etc.(It's up to you!)
         Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
-
-        ![Sign Up form](../img/shots/Screenshot(1).png)
-
+            
+            
+![Sign Up form](https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/shots/Screenshot1.png)
 
 * _Daily UI 002_
 
     * ** Credit Card Checkout **
-
 
         Hint: Design a credit card checkout form or page.
         Don't forget the important elements such as the numbers, dates, security numbers, etc. (It's up to you!)
@@ -26,7 +24,6 @@
 * _Daily UI 003_
 
     * ** Landing Page ** (above the fold)
-
 
         Hint: What's the main focus?
         Is it for a book, an album, a mobile app, a product?
@@ -57,7 +54,6 @@
 * _Daily UI 006_
 
     * ** User Profile **
-
  
     Hint: Design a user profile and be mindful of the most important data, names, imagery, placement, etc.
     Is it for a serious profile? A social profile? (It's up to you!).
