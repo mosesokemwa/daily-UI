@@ -9,7 +9,8 @@
         Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
             
             
-![Sign Up form](https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/shots/Screenshot1.png)
+![Sign Up form](img/shots/Screenshot1.png)
+
 
 * _Daily UI 002_
 
@@ -19,6 +20,7 @@
         Don't forget the important elements such as the numbers, dates, security numbers, etc. (It's up to you!)
         Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
 
+![check-out form](img/shots/Screenshot2.png)
 
 
 * _Daily UI 003_
@@ -31,6 +33,7 @@
         (call-to-actions, clarity, etc.)
         (It's up to you!) Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
 
+![landing page](img/shots/Screenshot3.png)
 
 * _Daily UI 004_
 
@@ -39,7 +42,7 @@
     Hint: Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? 
     Is it for a phone, a tablet, a web app? (It's up to you!)
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
-
+![calculator](img/shots/Screenshot4.png)
 
 * _Daily UI 005_
 
