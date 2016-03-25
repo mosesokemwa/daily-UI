@@ -49,3 +49,23 @@ body {
     animation: textbeat 4s linear infinite;
     text-shadow: 2px 2px 20px #000;
 }
+@-webkit-keyframes textbeat {
+    0% {
+        -webkit-transform-origin: 0 0;
+        transform-origin: 0 0;
+        -webkit-transform: scale(0.8) translate(-50%, -50%);
+        transform: scale(0.8) translate(-50%, -50%);
+    }
+    50% {
+        -webkit-transform-origin: 0 0;
+        transform-origin: 0 0;
+        -webkit-transform: scale(1) translate(-50%, -50%);
+        transform: scale(1) translate(-50%, -50%);
+    }
+    100% {
+        -webkit-transform-origin: 0 0;
+        transform-origin: 0 0;
+        -webkit-transform: scale(0.8) translate(-50%, -50%);
+        transform: scale(0.8) translate(-50%, -50%);
+    }
+}
