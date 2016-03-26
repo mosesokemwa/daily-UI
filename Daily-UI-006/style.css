@@ -32,12 +32,14 @@ body {
 .fi-social-facebook {
     color: #3b5998;
 }
-.contact li {
-    background-color: blue;
-    width: 200px;
-    display: inline;
-    margin: 25px;
+.fi-social-twitter {
+    color: #55acee;
+}
+.post li {
+    display: block;
+/*
     font-size: 2rem;
-    color: #fff;
-    border-radius: 10px;
+margin-left: 60px;
+margin-right: 60px;
+*/
 }
