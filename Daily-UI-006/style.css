@@ -1,7 +1,43 @@
 body {
     font-family: 'Raleway', serif;
+    text-align: center;
+}
+.shadow {
+    text-shadow: 100px 200px 2000px #000;
 }
 .img {
-    border-radius: 3em;
-    height: 100px;
+    border-radius: 4em;
+    height: 120px;
+    position: absolute;
+    top: 130px;
+    left: 440px;
+}
+.box {
+    background-color: aliceblue;
+    width: 380px;
+    margin-top: 180px;
+    box-shadow: 2px 2px 20px #000;
+}
+.box h3 {
+    margin-top: 70px;
+}
+.box p {
+    margin-top: -12px;
+}
+.social li {
+    display: inline;
+    margin: 10px;
+    font-size: 2rem;
+}
+.fi-social-facebook {
+    color: #3b5998;
+}
+.contact li {
+    background-color: blue;
+    width: 200px;
+    display: inline;
+    margin: 25px;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: 10px;
 }
