@@ -47,11 +47,15 @@ body {
 .social li:active {
     transform: scale(1.1);
 }
+.social li a {}
 .fi-social-facebook {
     color: #3b5998;
 }
 .fi-social-twitter {
     color: #55acee;
+}
+.fi-social-github {
+    color: #000;
 }
 .footer {
     background-color: #f2f2f2;
