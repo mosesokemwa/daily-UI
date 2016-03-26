@@ -13,21 +13,39 @@ body {
     left: 440px;
 }
 .box {
-    background-color: aliceblue;
+    background-color: #fff;
     width: 380px;
     margin-top: 180px;
     box-shadow: 2px 2px 20px #000;
 }
 .box h3 {
-    margin-top: 70px;
+    margin-top: 60px;
 }
 .box p {
     margin-top: -12px;
 }
 .social li {
     display: inline;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     font-size: 2rem;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.social li:hover,
+.social li:focus,
+.social li:active {
+    transform: scale(1.1);
 }
 .fi-social-facebook {
     color: #3b5998;
@@ -35,11 +53,28 @@ body {
 .fi-social-twitter {
     color: #55acee;
 }
-.post li {
-    display: block;
+.footer {
+    background-color: #f2f2f2;
+    width: 380px;
+    height: 100px;
+}
+
 /*
-    font-size: 2rem;
-margin-left: 60px;
-margin-right: 60px;
+.post li p {
+    position: absolute;
+    top: 90px;
+    margin-left: -50px;
+    margin-right: 580px;
+}
 */
+
+.posts li,
+.post li {
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.posts li p {
+    font-size: 35px;
+    margin-top: 15px;
 }
