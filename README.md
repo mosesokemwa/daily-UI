@@ -63,3 +63,4 @@
     Is it for a serious profile? A social profile? (It's up to you!).
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
     
+![user profile](img/shots/Screenshot6.png)
