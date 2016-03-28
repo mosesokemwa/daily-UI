@@ -64,3 +64,12 @@
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
     
 ![user profile](img/shots/Screenshot6.png)
+
+
+* _Daily UI 007_
+
+    * ** Settings **
+    
+    Hint: Design settings for something.
+    Is it for security or privacy settings? Game settings? What is it and what's important? (It's up to you!)
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
