@@ -8,7 +8,6 @@
         Hint: Design a sign up page, modal, form, app screen, etc.(It's up to you!)
         Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
             
-            
 ![Sign Up form](img/shots/Screenshot1.png)
 
 
@@ -42,6 +41,7 @@
     Hint: Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? 
     Is it for a phone, a tablet, a web app? (It's up to you!)
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+    
 ![calculator](img/shots/Screenshot4.png)
 
 * _Daily UI 005_
@@ -73,3 +73,15 @@
     Hint: Design settings for something.
     Is it for security or privacy settings? Game settings? What is it and what's important? (It's up to you!)
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+    
+![settings](img/shots/Screenshot7.png)
+
+
+* _Daily UI 008_
+
+    * ** 404 page **
+    
+    Hint: Design a 404 page. Does it suit the brand's style? Is it user-friendly? (It's up to you!)
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+
+![404 page](img/shots/Screenshot8.png)
