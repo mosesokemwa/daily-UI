@@ -39,7 +39,7 @@ body {
     border-radius: 20px;
     width: 250px;
     height: 50px;
-    margin-left: 80px;
+    margin-left: 70px;
     background-color: #000;
 }
 .content .theme p {
@@ -47,7 +47,10 @@ body {
     margin-top: -7px;
 }
 .content .theme .one {
-    color: green;
+    color: yellow;
+}
+.fi-check {
+    font-size: 20px;
 }
 .card .content {
     padding: 1.3rem;
@@ -56,4 +59,7 @@ body {
 }
 .card p {
     margin: 0;
+}
+.sec {
+    margin-top: -50px;
 }
