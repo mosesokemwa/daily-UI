@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400italic);
+@import url(https://fonts.googleapis.com/css?family=Raleway:600);
 body {
-    background-color: #0A7189;
+    background-color: mediumpurple;
     color: #fff;
     font: 100% "Lato", sans-serif;
     font-size: 1.8rem;
@@ -7,23 +9,11 @@ body {
     font-family: 'Raleway', serif;
 }
 a {
-    color: #75C6D9;
+    color: purple;
     text-decoration: none;
 }
 h3 {
     margin-bottom: 1%;
-}
-.list li {
-    display: inline;
-}
-.nav {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    line-height: 50px;
-}
-.nav li a:hover {
-    color: #fff;
 }
 .center {
     text-align: center;
@@ -31,32 +21,26 @@ h3 {
 
 /* Search Bar Styling */
 
-form {
-    margin-left: 450px;
-}
 .srchFld {
     border: 0;
-    border-radius: 7px;
+    border-radius: 15px;
     padding: 0 17px;
     max-width: 404px;
     width: 40%;
-    border-bottom: 5px solid #bdc3c7;
     height: 60px;
     color: #7f8c8d;
-    font-size: 19px;
-}
-.srchFld:focus {
-    outline-color: rgba(255, 255, 255, 0);
 }
 
 /* 404 Styling */
 
 .header {
     font-size: 13rem;
-    font-weight: 700;
-    text-shadow: 0px 3px 0px #7f8c8d;
+    /*    font-weight: 100;*/
+    text-shadow: 0px 3px 0px blue;
+    color: purple;
+    font-family: 'Playfair', butterfly-kids, serif;
 }
-.fi-magnifying-glass {
-    color: red;
-    font-size: 10px;
+.search .button {
+    height: 37px;
+    background-color: purple;
 }
