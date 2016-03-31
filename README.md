@@ -85,3 +85,24 @@
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
 
 ![404 page](img/shots/Screenshot8.png)
+
+
+* _Daily UI 009_
+
+    * **Music Player**
+    
+    Hint: Design a music player. Consider the controls, placements, imagery such as the artist or album cover, etc. (It's up to you!) 
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+
+![Music Player](img/shots/Screenshot9.png)
+
+
+* _Daily UI 009_
+    
+    * **Social Share**
+    
+    
+    Hint: Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing. (As always, it's up to you!) 
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+
+![social share](img/shots/Screenshot10.png)
