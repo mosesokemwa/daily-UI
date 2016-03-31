@@ -3,7 +3,7 @@
 
 * _Daily UI 001_
 
-    * ** Sign Up **
+    * **Sign Up**
     
         Hint: Design a sign up page, modal, form, app screen, etc.(It's up to you!)
         Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
@@ -13,7 +13,7 @@
 
 * _Daily UI 002_
 
-    * ** Credit Card Checkout **
+    * **Credit Card Checkout**
 
         Hint: Design a credit card checkout form or page.
         Don't forget the important elements such as the numbers, dates, security numbers, etc. (It's up to you!)
@@ -24,7 +24,7 @@
 
 * _Daily UI 003_
 
-    * ** Landing Page ** (above the fold)
+    * **Landing Page** (above the fold)
 
         Hint: What's the main focus?
         Is it for a book, an album, a mobile app, a product?
@@ -36,7 +36,7 @@
 
 * _Daily UI 004_
 
-    * ** Calculator **
+    * **Calculator**
 
     Hint: Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? 
     Is it for a phone, a tablet, a web app? (It's up to you!)
@@ -46,7 +46,7 @@
 
 * _Daily UI 005_
 
-    * ** App Icon **
+    * **App Icon**
     
     Hint: Design an app icon.
     What best represents the brand or product? Or is it incredibly unique?
@@ -57,7 +57,7 @@
 
 * _Daily UI 006_
 
-    * ** User Profile **
+    * **User Profile**
  
     Hint: Design a user profile and be mindful of the most important data, names, imagery, placement, etc.
     Is it for a serious profile? A social profile? (It's up to you!).
@@ -68,7 +68,7 @@
 
 * _Daily UI 007_
 
-    * ** Settings **
+    * **Settings**
     
     Hint: Design settings for something.
     Is it for security or privacy settings? Game settings? What is it and what's important? (It's up to you!)
@@ -79,7 +79,7 @@
 
 * _Daily UI 008_
 
-    * ** 404 page **
+    * **404 page**
     
     Hint: Design a 404 page. Does it suit the brand's style? Is it user-friendly? (It's up to you!)
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
