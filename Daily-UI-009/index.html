@@ -27,14 +27,53 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 </head>
 
-
 <body>
 
+    <!-- header -->
+    <div class="row">
+        <div class="medium-8 large-8 small-8 columns">
+            <div class="card">
+                <div class="top">
+                    <span class="title"><i class="fi-list"></i></span>
+                </div>
 
+                <div class="content">
+                    <img src="../img/music-cover.jpg" alt="music cover" class="img">
+                </div>
+                <br>
+
+                <!-- content 2  -->
+                <div class="content">
+                    <div class="track"><i class="icon-music"></i>Sone of Man (Tye Tribett)</div>
+                    <div class="artist"><i class="icon-user"></i>Tye Tribett</div>
+                    <div class="album"><i class="icon-cd"></i>Step Out</div>
+                    <ul class="controls">
+                        <li><i class="fi-heart" ddata-tooltip="like"></i></li>
+                        <li><i class="fi-shuffle" ddata-tooltip="shuffle"></i></li>
+                        <li><i class="fi-loop" ddata-tooltip="repeat"></i></li>
+                    </ul>
+                    <progress value="0" max="100">
+                        <div class="tracker active"></div>
+                    </progress>
+                    <span>0:00</span><span></span>
+                    <span class=""></span><span class="" style="float:right;">4:42</span>
+                    <ul class="play-controls">
+                        <li><i class="fi-rewind"></i></li>
+                        <li><i class="fi-previous"></i></li>
+                        <li><i class="fi-play"></i></li>
+                        <li><i class="fi-next"></i></li>
+                        <li><i class="fi-fast-forward"></i></li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-2.2.1.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="http://cdn.foundation5.zurb.com/foundation.js"></script>
+    <script src="script.js"></script>
     <script>
         $(document).foundation();
 
