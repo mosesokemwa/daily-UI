@@ -97,7 +97,7 @@
 ![Music Player](img/shots/Screenshot9.png)
 
 
-* _Daily UI 009_
+* _Daily UI 010_
     
     * **Social Share**
     
@@ -106,3 +106,14 @@
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
 
 ![social share](img/shots/Screenshot10.png)
+
+
+* _Daily UI 011_
+
+    * **Flash Message (Error/Success)**
+    
+    Hint: Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message? (As always, it's up to you!)
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+    
+    
+![social share](img/shots/Screenshot11.png)
