@@ -116,4 +116,4 @@
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
     
     
-![social share](img/shots/Screenshot11.png)
+![flash message](img/shots/Screenshot11.png)
