@@ -1,0 +1,21 @@
+body {
+    font-family: 'Raleway', serif;
+}
+.button {
+    border-radius: 50px;
+    margin-top: 100px;
+}
+.button span {
+    font-size: 60px;
+    font-family: 'Raleway', serif;
+}
+.fi-share {
+    font-size: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.fi-social-windows {
+    font-size: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
