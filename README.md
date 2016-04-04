@@ -117,3 +117,17 @@
     
     
 ![flash message](img/shots/Screenshot11.png)
+
+
+* _Daily UI 012_
+    
+    * **E-Commerce Shop(Single Item)**
+    
+    
+    Hint: Design an e-commerce shop. Is it simple for a local business or a large online retailer? Is it for clothing, shoes, handmade soap, or something else?
+    
+    Consider the brand, the products offered, product views, product options, desired actions (conversions, product views, etc.) and the users! (As always, it's up to you!) 
+    
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+
+![E-Commerce Shop(Single Item)](img/shots/Screenshot12.png)
