@@ -107,6 +107,10 @@
 
 ![social share](img/shots/Screenshot10.png)
 
+![social share](img/shots/Screenshot10b.png)
+
+![social share](img/shots/Screenshot10c.png)
+
 
 * _Daily UI 011_
 
