@@ -135,3 +135,17 @@
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
 
 ![E-Commerce Shop(Single Item)](img/shots/Screenshot12.png)
+
+
+* _Daily UI 013_
+
+    * **Direct Messaging**
+    
+    
+    Hint: Design a Direct Messaging app, profile, or chatbox.
+    
+    Consider the parties involved in the messages, images, placement, and context of the messages.
+    
+    Are the messages for social purposes? Customer support? (As always, it's up to you!)
+    
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
