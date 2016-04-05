@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.box {
+    border: 1px solid red;
+    background-color: #fff;
+}
+.box hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.box h3 {
+    font-weight: 600;
+    margin-bottom: -5px;
+}
+.box p .doodley {
+    font-size: 20px;
+}
+.box .price {
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 800;
+    font-size: 20px;
+}
