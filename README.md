@@ -149,3 +149,5 @@
     Are the messages for social purposes? Customer support? (As always, it's up to you!)
     
     Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+    
+![Direct Messaging](img/shots/Screenshot13.png)
