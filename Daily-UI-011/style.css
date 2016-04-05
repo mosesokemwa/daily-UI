@@ -1,0 +1,45 @@
+body {
+    font-family: 'Raleway', serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.alert {
+    color: #555;
+    border-radius: 10px;
+    margin: 80px;
+    height: 370px;
+    color: aliceblue;
+}
+.alert .icon {
+    font-size: 100px;
+}
+.alert span {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.alert p {
+    margin-top: 30px;
+}
+.alert .button {
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.error .button {
+    color: red;
+    font-weight: 600;
+}
+.success .button {
+    color: green;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.error {
+    background-color: red;
+    border: 1px solid #f5aca6;
+}
+.success {
+    background-color: green;
+    border: 1px solid #a6ca8a;
+}
