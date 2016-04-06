@@ -200,3 +200,19 @@
 ![Direct Messaging](img/shots/Screenshot13.png)
 
 ---
+
+* _Daily UI 014_
+    
+    * **Countdown Timer**
+    
+    Hint: Design a Countdown Timer. 
+    
+    Is it for an app? An interface for an oven? A sport related countdown? A launch countdown for NASA? 
+    
+    Don't forget to share on [Twitter](https://twitter.com/MosesOkemwa) when you're done.
+
+
+![Countdown Timer](img/shots/Screenshot14.png)
+
+---
+
