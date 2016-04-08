@@ -216,3 +216,29 @@
 
 ---
 
+
+* _Daily UI 015_
+    
+    * **On/Off Switch**
+
+ 
+    Hint: Design an On/Off Switch. Consider what's being turned on/off and how it should be done. (As always, it's up to you!) 
+
+    Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+![On/Off Switch](img/shots/Screenshot15.png)
+
+
+---
+
+
+
+* _Daily UI 016_
+
+    * **Pop-Up / Overlay**
+    
+    Hint: Design a Pop-Up/Overlay. Is it a web sign-up form that pops up? Is it an ad overlay?(As always, it's up to you!)
+    
+    Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+![Pop-Up / Overlay](img/shots/Screenshot16.png)
