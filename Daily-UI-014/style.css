@@ -31,21 +31,26 @@ body {
     color: #52a;
 }
 .name p {
-    margin-right: 30px;
+    margin-right: 70px;
     font-size: 20px;
     text-transform: uppercase;
     color: gray;
 }
 .timer .num {
     background-color: #52a;
-    height: 200px;
+    height: 250px;
     border-radius: 10px;
 }
 
 /* countdown */
 
 .timer .hrs {
-    font-size: 140px;
+    color: #000;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 120px;
+    height: 170px;
 }
 .timer .dots {
     font-size: 120px;
