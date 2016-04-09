@@ -12,7 +12,7 @@ body {
     overflow: hidden;
     box-shadow: 0 5px 7px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     background-color: #fff;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .timer .top {
     position: relative;
@@ -35,4 +35,18 @@ body {
     font-size: 20px;
     text-transform: uppercase;
     color: gray;
+}
+.timer .num {
+    background-color: #52a;
+    height: 200px;
+    border-radius: 10px;
+}
+
+/* countdown */
+
+.timer .hrs {
+    font-size: 140px;
+}
+.timer .dots {
+    font-size: 120px;
 }
