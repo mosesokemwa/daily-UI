@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+    background: -webkit-linear-gradient(75deg, #ffa200 50%, #2e2e2e 50.1%);
+    background: linear-gradient(15deg, #ffa200 50%, #2e2e2e 50.1%);
+    font-family: 'Raleway', serif;
+    color: #fff;
+}
