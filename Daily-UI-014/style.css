@@ -51,9 +51,171 @@ section > div > div {
     height: 180px;
     border-radius: 10px;
 }
+section > div > strong {
+    color: #52a;
+}
 section {
     padding: 12px;
     margin-bottom: 50px;
     border-radius: 12px;
     text-align: center;
+}
+
+/*
+
+                        MEDIA QUERIES
+=============================== */
+
+
+/*
+
+            TABLETS (portrait and landscape)
+
+------------------------------------------------------ */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* STYLES GO HERE */
+    body {
+        height: 500px;
+    }
+    section > div {
+        display: inline-block;
+        margin: 0 4px;
+    }
+    section > div > div {
+        background: #52a;
+        padding: 8px;
+        font-size: 60px;
+        width: 110px;
+        height: 100px;
+        border-radius: 10px;
+    }
+    section {
+        padding: 12px;
+        margin-bottom: 50px;
+        border-radius: 12px;
+        text-align: center;
+    }
+}
+
+/*
+
+            SMARTPHONES (portrait and landscape)
+-------------------------------------------------------------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    /* STYLES GO HERE */
+    body {
+        height: 500px;
+    }
+    .timer {
+        margin-top: 80px;
+        margin-left: 0;
+    }
+    section > div {
+        display: inline-block;
+        margin: 0 4px;
+    }
+    section > div > div {
+        background: #52a;
+        padding: 8px;
+        font-size: 40px;
+        width: 80px;
+        height: 80px;
+        border-radius: 10px;
+    }
+    section {
+        padding: 12px;
+        margin-bottom: 10px;
+        border-radius: 12px;
+        text-align: center;
+    }
+}
+
+/*
+
+        DESKTOPS and LAPTOPS
+--------------------------------    ----------- */
+
+@media only screen and (min-width: 1224px) {
+    /* STYLES GO HERE */
+    body {
+        height: 500px;
+    }
+    .timer {
+        margin-top: 200px;
+        margin-left: 0;
+    }
+    .fi-list {
+        color: #52a;
+        font-size: 50px;
+        margin: 20px;
+        margin-top: 50px;
+    }
+    section > div {
+        display: inline-block;
+        margin: 0 4px;
+    }
+    section > div > div {
+        background: #52a;
+        padding: 8px;
+        font-size: 40px;
+        width: 80px;
+        height: 80px;
+        border-radius: 10px;
+    }
+    section {
+        padding: 12px;
+        margin-bottom: 10px;
+        border-radius: 12px;
+        text-align: center;
+    }
+}
+
+/* Large screens ----------- */
+
+@media only screen and (min-width: 1824px) {
+    /* STYLES GO HERE */
+}
+
+/* iPads (portrait) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+}
+
+/* Smartphones (landscape) ----------- */
+
+@media only screen and (min-width: 321px) {
+    /* STYLES GO HERE */
+}
+
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width: 320px) {
+    /* STYLES GO HERE */
+}
+
+/* iPhone 5 (portrait & landscape)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+    /* STYLES GO HERE */
+}
+
+/* iPhone 5 (landscape)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+    /* STYLES GO HERE */
+}
+
+/* iPhone 5 (portrait)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+}
+
+/* iPads (landscape) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    /* STYLES GO HERE */
 }
