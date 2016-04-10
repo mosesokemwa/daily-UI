@@ -39,7 +39,7 @@ body {
 .timer .num {
     background-color: #52a;
     border-radius: 10px;
-    margin-right: 100px;
+    margin-left: 70px;
     margin-bottom: 80px;
     height: 240px;
 }
@@ -52,7 +52,7 @@ body {
     margin-top: 40px;
     border-radius: 10px;
     background-color: #fff;
-    font-size: 80px;
+    font-size: 70px;
     height: 120px;
 }
 .timer .dots {
