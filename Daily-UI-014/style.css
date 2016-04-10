@@ -2,7 +2,7 @@ body {
     background: -webkit-linear-gradient(75deg, #f2f2f2 50%, #52a 50.1%);
     background: linear-gradient(15deg, #f2f2f2 50%, #52a 50.1%);
     font-family: 'Raleway', serif;
-    height: 650px;
+    height: 649px;
     text-align: center;
     color: #fff;
 }
@@ -75,7 +75,7 @@ section {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
     /* STYLES GO HERE */
     body {
-        height: 500px;
+        height: 521px;
     }
     section > div > div {
         font-size: 60px;
@@ -92,11 +92,15 @@ section {
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     /* STYLES GO HERE */
     body {
-        height: 500px;
+        height: 521px;
     }
     .timer {
-        margin-top: 80px;
+        margin-top: 45px;
         margin-left: 0;
+    }
+    .name p {
+        font-size: 20px;
+        margin-right: 40px;
     }
     section > div > div {
         font-size: 40px;
@@ -113,7 +117,7 @@ section {
 @media only screen and (min-width: 1224px) {
     /* STYLES GO HERE */
     body {
-        height: 765px;
+        height: 764px;
     }
     .timer {
         margin-top: 200px;
@@ -123,7 +127,6 @@ section {
         height: 80px;
     }
     .fi-list {
-        color: #52a;
         font-size: 50px;
         margin: 20px;
     }
@@ -149,31 +152,34 @@ section {
 @media only screen and (min-width: 1824px) {
     /* STYLES GO HERE */
     body {
-        height: 1358px;
+        height: 1357px;
     }
     .timer {
         margin-top: 200px;
-        margin-left: 0;
+        margin-left: -500px;
+        width: 2200px;
     }
     .timer .top {
-        height: 80px;
+        height: 130px;
     }
     .fi-list {
-        color: #52a;
-        font-size: 50px;
-        margin: 20px;
+        font-size: 80px;
+        margin: 50px;
     }
     .name p {
         font-size: 50px;
         margin-right: 150px;
     }
+    section {
+        width: 2200px;
+    }
     section > div > div {
-        font-size: 130px;
-        width: 200px;
-        height: 200px;
+        font-size: 300px;
+        width: 500px;
+        height: 500px;
     }
     section > div > strong {
-        font-size: 50px;
+        font-size: 150px;
     }
 }
 
