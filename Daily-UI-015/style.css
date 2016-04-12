@@ -1,9 +1,8 @@
 body {
-    text-align: center;
-    background: -webkit-linear-gradient(75deg, #ffa200 50%, #2e2e2e 50.1%);
-    background: linear-gradient(15deg, #ffa200 50%, #2e2e2e 50.1%);
     font-family: 'Raleway', serif;
+    text-align: center;
     color: #fff;
+    background-color: #52a;
 }
 
 /* ============================================================
@@ -104,7 +103,7 @@ input.cmn-toggle-round + label:after {
     transition: margin 0.4s;
 }
 input.cmn-toggle-round:checked + label:before {
-    background-color: rgba(248, 240, 158, 0.85);
+    background-color: rgba(244, 242, 217, 0.89);
 }
 input.cmn-toggle-round:checked + label:after {
     margin-left: 60px;
@@ -118,7 +117,7 @@ input.cmn-toggle-round:checked + label:after {
 #light-bulb2 {
     width: 150px;
     height: 150px;
-    background: url(bulb.png) no-repeat 0 0;
+    background: url(../img/bulb.png) no-repeat 0 0;
 }
 .off {
     opacity: 0;
@@ -132,7 +131,7 @@ input.cmn-toggle-round:checked + label:after {
     height: 150px;
     top: 40%;
     left: 45%;
-    background: url(bulb.png) no-repeat -150px 0;
+    background: url(../img/bulb.png) no-repeat -150px 0;
     cursor: pointer;
     z-index: 800;
 }
