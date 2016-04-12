@@ -74,7 +74,6 @@ input.cmn-toggle-round + label:after {
 }
 input.cmn-toggle-round + label:before {
     right: 1px;
-    /*    background-color: #f1f1f1;*/
     background-color: #000000;
     -webkit-border-radius: 60px;
     -moz-border-radius: 60px;
@@ -134,4 +133,161 @@ input.cmn-toggle-round:checked + label:after {
     background: url(https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/bulb.png) no-repeat -150px 0;
     cursor: pointer;
     z-index: 800;
+}
+
+/*
+
+                        MEDIA QUERIES
+=============================== */
+
+
+/*
+
+            TABLETS (portrait and landscape)
+
+------------------------------------------------------ */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* STYLES GO HERE */
+    body {
+        background-color: blueviolet;
+    }
+    .switch input,
+    .switch label {
+        right: 250px;
+    }
+}
+
+/*
+
+            SMARTPHONES (portrait and landscape)
+-------------------------------------------------------------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    /* STYLES GO HERE */
+    body {
+        background-color: forestgreen;
+        width: 100px;
+        padding: 0;
+    }
+    .switch input,
+    .switch label {
+        right: 450px;
+    }
+    #light-bulb {
+        left: 35%;
+    }
+}
+
+/*
+
+        DESKTOPS and LAPTOPS
+--------------------------------    ----------- */
+
+@media only screen and (min-width: 1224px) {
+    /* STYLES GO HERE */
+    .timer {
+        margin-top: 100px;
+        margin-left: 0;
+    }
+    .timer .top {
+        height: 80px;
+    }
+    .fi-list {
+        font-size: 50px;
+        margin: 20px;
+    }
+    .name p {
+        font-size: 50px;
+        margin-right: 150px;
+    }
+    section > div > div {
+        font-size: 100px;
+        width: 200px;
+        height: 200px;
+    }
+    section > div > strong {
+        font-size: 50px;
+    }
+}
+
+/*
+
+                LARGE SCREENS
+---------------------------------------- */
+
+@media only screen and (min-width: 1824px) {
+    /* STYLES GO HERE */
+    body {
+        height: 1357px;
+    }
+    .timer {
+        margin-top: 200px;
+        margin-left: -500px;
+        width: 2200px;
+    }
+    .timer .top {
+        height: 130px;
+    }
+    .fi-list {
+        font-size: 80px;
+        margin: 50px;
+    }
+    .name p {
+        font-size: 50px;
+        margin-right: 150px;
+    }
+    section {
+        width: 2200px;
+    }
+    section > div > div {
+        font-size: 300px;
+        width: 500px;
+        height: 500px;
+    }
+    section > div > strong {
+        font-size: 150px;
+    }
+}
+
+/* iPads (portrait) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+}
+
+/* Smartphones (landscape) ----------- */
+
+@media only screen and (min-width: 321px) {
+    /* STYLES GO HERE */
+}
+
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width: 320px) {
+    /* STYLES GO HERE */
+}
+
+/* iPhone 5 (portrait & landscape)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+    /* STYLES GO HERE */
+}
+
+/* iPhone 5 (landscape)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+    /* STYLES GO HERE */
+}
+
+/* iPhone 5 (portrait)----------- */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+    /* STYLES GO HERE */
+}
+
+/* iPads (landscape) ----------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    /* STYLES GO HERE */
 }

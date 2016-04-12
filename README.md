@@ -227,6 +227,7 @@
     Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
 
 ![On/Off Switch](img/shots/Screenshot15.png)
+![On/Off Switch](img/shots/Screenshot15a.png)
 
 
 ---
