@@ -5,3 +5,134 @@ body {
     font-family: 'Raleway', serif;
     color: #fff;
 }
+
+/* ============================================================
+  COMMON
+============================================================ */
+
+#wrapper {
+    min-width: 600px;
+}
+.settings {
+    display: table;
+    width: 100%;
+}
+.settings .row {
+    display: table-row;
+}
+.settings .img,
+.settings .switch {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+}
+.settings .img {
+    width: 600px;
+    font-size: 20px;
+}
+
+/* ============================================================
+  COMMON
+============================================================ */
+
+.cmn-toggle {
+    position: absolute;
+    visibility: hidden;
+}
+.cmn-toggle + label {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* ============================================================
+  SWITCH 1 - ROUND
+============================================================ */
+
+input.cmn-toggle-round + label {
+    width: 120px;
+    height: 60px;
+    background-color: #000000;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    border-radius: 60px;
+}
+input.cmn-toggle-round + label:before,
+input.cmn-toggle-round + label:after {
+    display: block;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    bottom: 1px;
+    content: "";
+}
+input.cmn-toggle-round + label:before {
+    right: 1px;
+    /*    background-color: #f1f1f1;*/
+    background-color: #000000;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    border-radius: 60px;
+    -webkit-transition: background 0.4s;
+    -moz-transition: background 0.4s;
+    -o-transition: background 0.4s;
+    transition: background 0.4s;
+}
+input.cmn-toggle-round + label:after {
+    width: 58px;
+    background-color: #fff;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    -webkit-transition: margin 0.4s;
+    -moz-transition: margin 0.4s;
+    -o-transition: margin 0.4s;
+    transition: margin 0.4s;
+}
+input.cmn-toggle-round:checked + label:before {
+    background-color: rgba(248, 240, 158, 0.85);
+}
+input.cmn-toggle-round:checked + label:after {
+    margin-left: 60px;
+}
+
+/* from Js fiddle */
+
+
+/* SWITCH Active State */
+
+#light-bulb2 {
+    width: 150px;
+    height: 150px;
+    background: url(bulb.png) no-repeat 0 0;
+}
+.off {
+    opacity: 0;
+}
+.on {
+    opacity: 1;
+}
+#light-bulb {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 40%;
+    left: 45%;
+    background: url(bulb.png) no-repeat -150px 0;
+    cursor: pointer;
+    z-index: 800;
+}
