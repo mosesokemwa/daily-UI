@@ -117,7 +117,7 @@ input.cmn-toggle-round:checked + label:after {
 #light-bulb2 {
     width: 150px;
     height: 150px;
-    background: url(../img/bulb.png) no-repeat 0 0;
+    background: url(https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/bulb.png) no-repeat 0 0;
 }
 .off {
     opacity: 0;
@@ -131,7 +131,7 @@ input.cmn-toggle-round:checked + label:after {
     height: 150px;
     top: 40%;
     left: 45%;
-    background: url(../img/bulb.png) no-repeat -150px 0;
+    background: url(https://raw.githubusercontent.com/mussaimo/daily-UI/master/img/bulb.png) no-repeat -150px 0;
     cursor: pointer;
     z-index: 800;
 }
