@@ -1,3 +1,33 @@
 body {
     text-align: center;
+    color: #fff;
+    height: 598px;
+    background-color: #222f43;
+}
+.row {
+    margin-top: 60px;
+}
+.btn1,
+.btn2,
+.btn3 {
+    background-color: #52a;
+    border-radius: 20px;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    width: 250px;
+}
+.btn1:hover,
+.btn2:hover,
+.btn3:hover {
+    background-color: #0707b5;
+}
+.btn1 {
+    margin-right: 20px;
+}
+.btn2 {
+    margin-left: 20px;
+}
+.row .button a {
+    color: #fff;
 }
