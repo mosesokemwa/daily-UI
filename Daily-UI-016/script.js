@@ -2,14 +2,7 @@ $(function () {
     /*-------------------------------
     	GENERAL EXAMPLES
     -------------------------------*/
-    // Default usage
-    $('.default_popup').popup();
-    // Function for content
-    $('.function_popup').popup({
-        content: function () {
-            return '<p>' + $(this.ele).attr('title') + '</p>';
-        }
-    });
+
     // Custom YouTube content
     $('.youtube_popup').popup({
         types: {
@@ -19,8 +12,8 @@ $(function () {
                 callback.call(this, content);
             }
         },
-        width: 600,
-        height: 400
+        width: 700,
+        height: 550
     });
 });
 /*---------------------
