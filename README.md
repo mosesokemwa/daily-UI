@@ -243,3 +243,39 @@
     Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
 
 ![Pop-Up / Overlay](img/shots/Screenshot16.png)
+
+
+---
+
+
+* _Daily UI 017_
+
+    * **Email Receipt**
+
+    Hint: Design an Email Receipt. What was purchased? On what date? Consider other elements such as a customer support info, a tracking number, pictures, related items, etc. (As always, it's up to you!)
+
+    Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+
+![Pop-Up / Overlay](img/shots/Screenshot17.png)
+
+
+---
+
+
+* _Daily UI 018_
+
+    * **Analytics Chart**
+
+
+    Hint: Design an analytics chart. Is it to be used for web or app analytics, a health monitor, e-commerce analytics?
+
+    Consider filters, chart types, and the core features/statistics the user would need most.(As always, it's up to you!)
+
+    Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+
+![Pop-Up / Overlay](img/shots/Screenshot18.png)
+
+---
+
