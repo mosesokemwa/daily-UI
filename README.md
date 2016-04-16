@@ -303,8 +303,26 @@
 
      Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
 
-![Pop-Up / Overlay](img/shots/Screenshot19.png)
+![Pop-Up / Overlay](img/shots/Screenshot20.png)
 
 
 ---
+
+
+* _Daily UI 021_
+
+    * **Home Monitoring Dashboard**
+
+    Hint: Design a home monitoring dashboard. Be creative! What would make a dashboard visually appealing and fun to use, while also being mindful of the data?
+
+    Try to make it a realistic exercise as if it were your own dashboard... one that you need to refer to daily. What is the most relevant data and what's the most appropriate placement for it?(As always, it's up to you!)
+
+    Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+
+![Pop-Up / Overlay](img/shots/Screenshot121.png)
+
+
+---
+
 
