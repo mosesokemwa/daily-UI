@@ -279,3 +279,32 @@
 
 ---
 
+
+* _Daily UI 019_
+
+    * **Leaderboard**
+
+    Hint: Design a leaderboard. Is it for gaming, sports, politics, or something else? Consider the important statistics to show, percentages, points, profile pictures, etc.(As always, it's up to you!)
+
+    Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+
+![Pop-Up / Overlay](img/shots/Screenshot19.png)
+
+
+---
+
+* _Daily UI 020_
+
+    * **Location Tracker**
+
+
+    Hint: Design a location tracker. Consider the icon, placement, and purpose of location. Mapping something? Is it a tracking beacon? Is the NSA tracking you? ok, maybe they are ;) (As always, it's up to you!)
+
+     Don't forget to share on Dribbble and/or Twitter with #dailyui when you're done.
+
+![Pop-Up / Overlay](img/shots/Screenshot19.png)
+
+
+---
+
