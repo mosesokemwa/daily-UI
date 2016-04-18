@@ -3,16 +3,20 @@ body {
     color: #69b6ae;
 }
 .white {
+    margin-top: 20px;
     background-color: #ffffff;
-    text-align: center;
+    border-radius: 10px;
 }
 .top img {
     width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 .text h3 {
     font-weight: 600;
     margin-top: 20px;
     font-family: "Droid Serif";
+    text-align: center;
 }
 .message {
     color: rgb(119, 119, 119);
@@ -20,4 +24,10 @@ body {
     margin-left: 40px;
     margin-top: 30px;
     font-size: 0.90rem;
+}
+
+/* items */
+
+.item ul li {
+    display: inline;
 }
