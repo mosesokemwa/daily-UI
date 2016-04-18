@@ -3,12 +3,15 @@ body {
     color: #69b6ae;
 }
 .white {
-    margin-top: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     background-color: #ffffff;
     border-radius: 10px;
+    box-shadow: 1px 1px 20px #000;
 }
 .top img {
     width: 100%;
+    height: 230px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
