@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.white {
+    background-color: #ffffff;
+}
+.top img {
+    width: 100%;
+}
+.text h3 {
+    color: #69b6ae;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    margin-top: 20px;
+}
