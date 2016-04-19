@@ -29,8 +29,36 @@ body {
     font-size: 0.90rem;
 }
 
-/* items */
+/*
 
-.item ul li {
-    display: inline;
+            SMARTPHONES (portrait and landscape)
+-------------------------------------------------------------- */
+
+@media only screen and (max-device-width: 480px) {
+    /* STYLES GO HERE */
+    body {
+        background-color: forestgreen;
+    }
+    .white {
+        margin-bottom: 10px;
+        width: 600px;
+    }
+    .top img {
+        width: 100%;
+        height: 80px;
+    }
+    .text h3 {
+        font-weight: 600;
+        margin-top: 10px;
+        font-family: "Droid Serif";
+        text-align: center;
+    }
+    .message {
+        color: rgb(119, 119, 119);
+        margin-left: 40px;
+        font-size: 0.90rem;
+    }
+    .nice {
+        margin-left: -40px;
+    }
 }
