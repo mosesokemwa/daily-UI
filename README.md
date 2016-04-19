@@ -228,6 +228,7 @@
 
 
 ![Email Receipt](img/shots/Screenshot17.png "Email Receipt")
+![Email Receipt](img/shots/Screenshot17a.png "Email Receipt")
 
 
 ---
