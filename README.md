@@ -283,6 +283,17 @@
     Try to make it a realistic exercise as if it were your own dashboard... one that you need to refer to daily. What is the most relevant data and what's the most appropriate placement for it?(As always, it's up to you!)
 
 
-![Home Monitoring Dashboard](img/shots/Screenshot121.png "Home Monitoring Dashboard")
+![Home Monitoring Dashboard](img/shots/Screenshot21.png "Home Monitoring Dashboard")
 
 ---
+
+
+* _Daily UI 022_
+
+    * **Search**
+
+
+    Hint: Design something search related. It could be a search bar, an advanced search window, a search function, etc. (As always, it's up to you!)
+
+
+![Search](img/shots/Screenshot22.png "search")
