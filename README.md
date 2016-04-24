@@ -297,3 +297,57 @@
 
 
 ![Search](img/shots/Screenshot22.png "search")
+
+
+---
+
+* _Daily UI 023_
+
+    * **Onboarding**
+
+    Hint: Design something onboarding related. Are you recruiting people for an organization? To sign up for a new website? A mobile app?(As always, it's up to you!)
+
+
+![Onboarding](img/shots/Screenshot23.png "Onboarding")
+
+
+---
+
+
+* _Daily UI 024_
+
+    * **Boarding Pass**
+
+    Hint: Design a boarding pass. Consider the origin, the destination, gates, seats, the airline, etc.(As always, it's up to you!)
+
+
+![Boarding Pass](img/shots/Screenshot24.png "Boarding Pass")
+
+
+---
+
+
+* _Daily UI 025_
+
+    * **TV App**
+
+    Hint: Design an app for a smart TV. What type of app is it? What are the features/controls? Does it have a carousel selection feature? What it is? (As always, it's up to you!)
+
+
+![TV App](img/shots/Screenshot25.png "TV App")
+
+
+---
+
+
+* _Daily UI 026_
+
+    * **Subscribe**
+
+    Hint: Design a subscribe form, button, widget, etc. What type of information are you looking to capture from the user? Their name and email? Their zip code? Something else? (As always, it's up to you!)
+
+
+![Subscribe](img/shots/Screenshot25.png "Subscribe")
+
+
+---
