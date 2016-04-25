@@ -17,7 +17,7 @@ body {
     background-size: 16px 16px;
 }
 .analytics {
-    margin: 50px auto;
+    margin: 40px auto;
     padding: 5px 6px;
     width: 800px;
     overflow: hidden;
@@ -33,19 +33,18 @@ body {
     box-shadow: inset 0 1px rgba(255, 255, 255, 0.2), inset 0 0 0 1px rgba(255, 255, 255, 0.1), 0 1px 4px rgba(0, 0, 0, 0.5);
 }
 .analytics-title {
-    margin: 0 0 15px 10px;
+    margin: 10px 0 20px 20px;
     line-height: 14px;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     color: #242934;
-    ;
 }
 .analytics-chart {
     float: left;
 }
 .analytics-colchart {
-    padding: 20px 40px 0;
-    height: 200px;
+    padding: 40px 40px 0;
+    height: 300px;
     overflow: hidden;
     background: #3e4350;
     border: 1px solid;
