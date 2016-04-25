@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    font-family: 'Raleway', serif;
+}
+.leader {
+    background-color: blue;
+}
+.leader .fi-trophy {
+    font-size: 50px;
+    color: aliceblue;
+}
+.leader p {
+    font-size: 30px;
+}
