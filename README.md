@@ -351,3 +351,15 @@
 
 
 ---
+
+
+* _Daily UI 027_
+
+    * **Dropdown**
+
+    Hint: Design a dropdown element. Is it a menu dropdown? Or a tip that's dropped down during a tutorial? (As always, it's up to you!)
+
+
+![Dropdown](img/shots/Screenshot25.png "Dropdown")
+
+---
