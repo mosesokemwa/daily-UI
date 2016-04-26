@@ -13,8 +13,8 @@ Leaderboard
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    width: 285px;
-    height: 308px;
+    width: 290px;
+    height: 420px;
     background: -webkit-linear-gradient(top, #3a404d, #181c26);
     background: linear-gradient(to bottom, #3a404d, #181c26);
     border-radius: 10px;
@@ -44,16 +44,14 @@ Leaderboard
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     -webkit-transform: translateZ(0) scale(1, 1);
-    /*
     transform: translateZ(0) scale(1, 1);
-*/
 }
 .leaderboard ol li::before {
     content: counter(leaderboard);
     position: absolute;
     z-index: 2;
     top: 15px;
-    left: 15px;
+    left: 5px;
     width: 20px;
     height: 20px;
     line-height: 20px;
