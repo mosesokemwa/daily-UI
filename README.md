@@ -360,7 +360,33 @@
     Hint: Design a dropdown element. Is it a menu dropdown? Or a tip that's dropped down during a tutorial? (As always, it's up to you!)
 
 
-![Dropdown](img/shots/Screenshot26.png "Dropdown")
-![Dropdown](img/shots/Screenshot26a.png "Dropdown")
+![Dropdown](img/shots/Screenshot27.png "Dropdown")
+![Dropdown](img/shots/Screenshot27a.png "Dropdown")
+
+---
+
+
+* _Daily UI 028_
+
+    * **Contact Us**
+
+    Hint: Design a Contact Us page or form. Is it for customer support? A purchase inquiry? To schedule an appointment? Think about a scenario and the most important feature it would require.
+
+![Contact Us](img/shots/Screenshot28.png "Contact Us")
+
+
+---
+
+
+* _Daily UI 029_
+
+    * **Map**
+
+    Hint: Design a map. Not one of those old school paper ones though. Ok, that might actually be kinda neat too. ;)
+
+    What type of features should it have? Should its color scheme compliment the brand the map is designed for? (As always, it's up to you!)
+
+
+![Map](img/shots/Screenshot29.png "Map")
 
 ---
