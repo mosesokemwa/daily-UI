@@ -1,5 +1,6 @@
 body {
     background-color: aqua;
+    background-image: url(https://www.vigiglobe.com/wp-content/uploads/2016/01/image_barclays_premier_league.jpg);
     font-family: 'Raleway', serif;
 }
 
@@ -13,10 +14,10 @@ Leaderboard
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    width: 290px;
-    height: 420px;
-    background: -webkit-linear-gradient(top, #3a404d, #181c26);
-    background: linear-gradient(to bottom, #3a404d, #181c26);
+    width: 330px;
+    height: 440px;
+    background: -webkit-linear-gradient(top, #BAE2F6, #181c26);
+    background: linear-gradient(to bottom, #3a404d, #BAE2F6);
     border-radius: 10px;
     box-shadow: 0 7px 30px rgba(62, 9, 11, 0.3);
 }
@@ -25,6 +26,10 @@ Leaderboard
     color: #e1e1e1;
     padding: 12px 13px 18px;
     margin-left: 20px;
+}
+.leaderboard .fi-trophy {
+    color: blue;
+    font-size: 35px;
 }
 
 /*-------------------
@@ -39,7 +44,7 @@ Leaderboard
     z-index: 1;
     font-size: 14px;
     counter-increment: leaderboard;
-    padding: 18px 10px 18px 50px;
+    padding: 18px 20px 18px 80px;
     cursor: pointer;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -55,7 +60,7 @@ Leaderboard
     width: 20px;
     height: 20px;
     line-height: 20px;
-    color: #c24448;
+    color: #BAE2F6;
     background: #fff;
     border-radius: 20px;
     text-align: center;
@@ -112,13 +117,13 @@ Leaderboard
     opacity: 0;
 }
 .leaderboard ol li:nth-child(1) {
-    /*    background: #fa6855;*/
+    background: #e0574f;
 }
 .leaderboard ol li:nth-child(1)::after {
     background: #fa6855;
 }
 .leaderboard ol li:nth-child(2) {
-    /*    background: #e0574f;*/
+    background: #e0574f;
 }
 .leaderboard ol li:nth-child(2)::after {
     background: #e0574f;
