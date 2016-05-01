@@ -389,4 +389,31 @@
 
 ![Map](img/shots/Screenshot29.png "Map")
 
+
 ---
+
+
+* _Daily UI 030_
+
+    * **Pricing**
+
+
+    Hint: Design something related to pricing. Is it a pricing table? A restaurant menu with pricing? (As always, it's up to you!)
+
+![Pricing](img/shots/Screenshot30.png "Pricing")
+
+---
+
+
+* _Daily UI 031_
+
+    * **File Upload**
+
+    Hint: Design a file upload element. Is it the loading screen and icon? A progress element? Are folders being uploaded by flying across the screen like Ghostbusters? :;): (As always, it's up to you!)
+
+
+![File Upload](img/shots/Screenshot31.png "File Upload")
+
+---
+
+
