@@ -440,3 +440,15 @@
 
 
 ---
+
+
+* _Daily UI 033_
+
+    * **Car Interface**
+
+    Hint: Design a car interface. Consider the elements you'd want and need in your own dashboard. Be creative, yet logical. (As always, it's up to you!)
+
+
+![Car Interface](img/shots/Screenshot33.png "Car Interface")
+
+---
