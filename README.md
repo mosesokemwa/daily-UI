@@ -347,7 +347,7 @@
     Hint: Design a subscribe form, button, widget, etc. What type of information are you looking to capture from the user? Their name and email? Their zip code? Something else? (As always, it's up to you!)
 
 
-![Subscribe](img/shots/Screenshot25.png "Subscribe")
+![Subscribe](img/shots/Screenshot26.png "Subscribe")
 
 
 ---
@@ -426,7 +426,7 @@
     So what's really important? The numbers of contributors, the total raised, campaign details and highlights? Also consider size, imagery, placement, slogans, etc. (As always, it's up to you!)
 
 
-![Crowdfunding Campaign](img/shots/Screenshot31.png "Crowdfunding Campaign")
+![Crowdfunding Campaign](img/shots/Screenshot32.png "Crowdfunding Campaign")
 
 ---
 
@@ -436,7 +436,7 @@
 
     Hint: Design something related to customizing a product. It could be a custom t-shirt, shoes,  etc. (As always, it's up to you!)
 
-![Customize Product](img/shots/Screenshot31.png "Customize Product")
+![Customize Product](img/shots/Screenshot33.png "Customize Product")
 
 
 ---
