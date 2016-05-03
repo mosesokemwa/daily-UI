@@ -416,4 +416,27 @@
 
 ---
 
+* _Daily UI 032_
 
+    * **Crowdfunding Campaign**
+
+
+    Hint: Design a crowdfunding campaign. Keep in mind the purpose... raising funds. It's important to make it compelling if you're seeking money.
+
+    So what's really important? The numbers of contributors, the total raised, campaign details and highlights? Also consider size, imagery, placement, slogans, etc. (As always, it's up to you!)
+
+
+![Crowdfunding Campaign](img/shots/Screenshot31.png "Crowdfunding Campaign")
+
+---
+
+* _Daily UI 033_
+
+    * **Customize Product**
+
+    Hint: Design something related to customizing a product. It could be a custom t-shirt, shoes,  etc. (As always, it's up to you!)
+
+![Customize Product](img/shots/Screenshot31.png "Customize Product")
+
+
+---
