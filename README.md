@@ -442,13 +442,26 @@
 ---
 
 
-* _Daily UI 033_
+* _Daily UI 034_
 
     * **Car Interface**
 
     Hint: Design a car interface. Consider the elements you'd want and need in your own dashboard. Be creative, yet logical. (As always, it's up to you!)
 
 
-![Car Interface](img/shots/Screenshot33.png "Car Interface")
+![Car Interface](img/shots/Screenshot34.png "Car Interface")
+
+---
+
+
+* _Daily UI 035_
+
+    * **Blog Post**
+
+    Hint: Design a blog post. Consider what's important- the content of course. Also consider the author, date, category, comments, layout, etc. (As always, it's up to you!)
+
+
+![Car Interface](img/shots/Screenshot35.png "Car Interface")
+
 
 ---
