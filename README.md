@@ -465,3 +465,14 @@
 
 
 ---
+
+
+* _Daily UI 035_
+
+    * **Special Offer**
+
+
+    Hint: Design a special offer. What's on sale? Is it a promotion, a clearance item, a buy one get one offer, or something else? Is it the discount size/percentage that's important? Does it look compelling? (As always, it's up to you!)
+
+
+![Special Offer](img/shots/Screenshot35.png "Special Offer")
