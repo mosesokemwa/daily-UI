@@ -467,7 +467,7 @@
 ---
 
 
-* _Daily UI 035_
+* _Daily UI 036_
 
     * **Special Offer**
 
@@ -475,4 +475,31 @@
     Hint: Design a special offer. What's on sale? Is it a promotion, a clearance item, a buy one get one offer, or something else? Is it the discount size/percentage that's important? Does it look compelling? (As always, it's up to you!)
 
 
-![Special Offer](img/shots/Screenshot35.png "Special Offer")
+![Special Offer](img/shots/Screenshot36.png "Special Offer")
+
+
+---
+
+
+* _Daily UI 037_
+
+    * **Weather**
+
+    Hint: Design something related to weather. It could be a UI for a mobile app a web app, or something completely different such as a weather alert widget. Consider its elements: city, temperature, forecasts, colors, weather icons/graphics, etc. (As always, it's up to you!)
+
+
+![Weather](img/shots/Screenshot37.png "Weather")
+
+---
+
+
+* _Daily UI 038_
+
+    * **Calendar**
+
+
+
+![Calendar](img/shots/Screenshot38.png "Calendar")
+
+---
+
