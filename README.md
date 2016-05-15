@@ -503,3 +503,31 @@
 
 ---
 
+* _Daily UI 039_
+
+    * **Testimonials**
+
+
+![Testimonials](img/shots/Screenshot39.png "Testimonials")
+
+---
+
+* _Daily UI 040_
+
+    * **Recipe**
+
+
+![Recipe](img/shots/Screenshot40.png "Recipe")
+
+
+---
+
+
+* _Daily UI 41_
+
+    * **Workout Tracker**
+
+
+![Workout Tracker](img/shots/Screenshot41.png "Workout Tracker")
+
+---
